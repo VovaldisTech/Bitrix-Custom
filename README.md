@@ -1,2 +1,3 @@
 # Bitrix-Custom
-Custom activity set for the Bitrix24 on-premise version
+Кастомные активити для коробочной версии Битрикс24
+
